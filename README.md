@@ -3,5 +3,7 @@ Este repositorio es en donde residen los ejercicios y prácticas que veremos en 
 
 ## hola1
 ### hola2
+** hola ** 
 
 #### hola3
+* hola *
